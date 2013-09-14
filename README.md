@@ -1,2 +1,4 @@
-geany-snippets
-==============
+geany config
+============
+
+My personal configuration files
